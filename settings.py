@@ -1,0 +1,1 @@
+# File with generic functions and environment variables.
